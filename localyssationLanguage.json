@@ -1,0 +1,13 @@
+{
+  "code": "ru_RU",
+  "name": "Russian (RU)",
+  "autoShrinkOverflowingText": false,
+  "fontReplacementCentaur": {
+    "bundleName": "",
+    "fontName": ""
+  },
+  "fontReplacementTerminalGrotesque": {
+    "bundleName": "",
+    "fontName": ""
+  }
+}
